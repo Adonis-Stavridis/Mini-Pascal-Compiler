@@ -1,0 +1,20 @@
+# Bin
+/build
+/bin
+*.out
+*.tab.*
+*.yy.*
+
+# Obj
+/obj
+
+# Doc
+/doc
+
+# Output
+/out
+/mips
+/logs
+
+# Archive
+scalpa.tar.gz
