@@ -1,6 +1,6 @@
 # Scalpa Compiler
 
-BOUAFIA Amir - FILLEUL Mika - SAKUMA Marion - STAVRIDIS Adonis
+STAVRIDIS Adonis
 
 ## Compile the Scalpa Compiler
 
